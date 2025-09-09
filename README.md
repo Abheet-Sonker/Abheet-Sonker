@@ -11,7 +11,7 @@
 
 ---
 
-![My GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abheet-Sonker&layout=compact&theme=dark)
+![My GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abheet-Sonker&theme=dark)
 ---
 
 ### Most Used Languages
