@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abheet-Sonker&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
----
+
 ![My GitHub Contributions Graph](https://github-contributions-graph.vercel.app/api?username=Abheet-Sonker&theme=dark)
 
 ---
