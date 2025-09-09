@@ -6,16 +6,16 @@
 ---
 
 ### My Stats
-("https://github-readme-stats.vercel.app/api?username=Abheet-Sonker&show_icons=true&theme=dark" alt="GitHub Stats")
+![My Stats](https://github-readme-stats.vercel.app/api?username=Abheet-Sonke&show_icons=true&theme=dark)
 
 ---
 
-![My GitHub Contribution Graph](https://github-contributions-graph.vercel.app/api?username=Abhee-Sonker&theme=dark)
+![My GitHub Contribution Graph](https://github-contributions-graph.vercel.app/api?username=Abheet-Sonke&theme=dark)
 
 
 ### Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abheet-Sonker&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abheet-Sonke&layout=compact&theme=dark)
 
 ---
 
