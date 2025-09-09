@@ -9,7 +9,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abheet-Sonker&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Abheet-Sonker&layout=compact&theme=dark" alt="Wakatime Stats" />
 </p>
 
 <p align="center">
@@ -36,7 +35,7 @@
 </p>
 
 <p>
-  My email id - 📧 <a href="mailto:your-email-here"abheets24@iitk.ac.in</a>
+  My email id - 📧 <a href="mailto:abheets24@iitk.ac.in">abheets24@iitk.ac.in</a>
 </p>
 
 ---
