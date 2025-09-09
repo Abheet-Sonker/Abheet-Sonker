@@ -1,7 +1,6 @@
 ### About Me
 
 - 👨‍💻 Pursuing MTech in Management Science at IIT Kanpur.
-- 🧑‍💼 Data Scientist, Summer Intern at Exxon Mobil.
 - 💻 Working on Data Science and Machine Learning projects.
 
 ---
