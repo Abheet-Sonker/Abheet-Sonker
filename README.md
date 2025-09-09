@@ -11,8 +11,7 @@
 
 ---
 
-![My GitHub Contribution Graph](https://github-contributions-graph.vercel.app/api?username=Abheet-Sonker&theme=dark)
-
+![My GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abheet-Sonker)
 ---
 
 ### Most Used Languages
